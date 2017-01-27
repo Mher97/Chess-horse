@@ -3,9 +3,9 @@ This program designed on qt 5.5. Compiler is c++ 11.
 Program reads resources from app directory.
 Program description:
   There are two levels into it. User must select two squaers on chess board.
-  1-st level - Chess white horse is stated on first square and flag on another square.
+  1-st level - chess white horse is stated on first square and flag on another square.
                Then program will find chess horse shortest path between squares.
-  2-nd level -White and black horses are situated on squares.Then program will find shortest
+  2-nd level -white and black horses are situated on squares.Then program will find shortest
                     path between horses when they simultaneously will start to move toward
                     each other if it possible.
   Also you can see screenshots.

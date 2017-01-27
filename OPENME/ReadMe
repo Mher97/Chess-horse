@@ -1,4 +1,5 @@
 This program designed on qt 5.5. Compiler is c++ 11.
+Program reads resources from app directory.
 Program description:
   There are two levels into it. User must select two squaers on chess board.
   1-st level - Chess white horse is stated on first square and flag on another square.
